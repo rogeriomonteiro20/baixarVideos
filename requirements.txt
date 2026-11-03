@@ -3,3 +3,4 @@ flask
 gunicorn
 yt-dlp
 imageio-ffmpeg
+flask-cors
